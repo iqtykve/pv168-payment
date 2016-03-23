@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Mar 23 16:16:07 CET 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0153-a40c-107e-000002e67018 
+on database directory memory:C:\Users\Ondra\Desktop\paymentRegister-master\accounts with class loader sun.misc.Launcher$AppClassLoader@75b84c92 
+Loaded from file:/C:/Users/Ondra/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_73-b02
+user.dir=C:\Users\Ondra\Desktop\paymentRegister-master
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
